@@ -1,4 +1,7 @@
-<h1 align="center"> <a href="https://axz.plus/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来访coisini;新的一天也要快乐!&center=true&size=27"> </a> </h1>
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77234&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E8%AE%BFcoisini%EF%BC%8C%E6%96%B0%E7%9A%84%E4%B8%80%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%BF%AB%E4%B9%90!" alt="Typing SVG" />
+  </a>
+</h1>
 
 <!--
 **xiangshaw/xiangshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
